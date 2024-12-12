@@ -1,0 +1,5 @@
+scipy.stats
+t
+norm
+f
+chi2
